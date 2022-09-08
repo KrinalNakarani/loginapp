@@ -21,6 +21,7 @@ class _HomeScreenState extends State<HomeScreen> {
       child: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.pink,
+          centerTitle: true,
           title: Text("Taste Me"),
           actions: [
             IconButton(onPressed:(){

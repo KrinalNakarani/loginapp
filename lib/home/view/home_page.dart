@@ -46,7 +46,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   height: 20,
                 ),
                 Text(
-                  "UID = ${user!.uid}",
+                  "UID    = ${user!.uid}",
                   style: TextStyle(fontSize: 30),
                 ),
                 SizedBox(

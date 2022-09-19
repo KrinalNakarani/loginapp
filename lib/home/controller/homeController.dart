@@ -65,4 +65,5 @@ class LRController extends GetxController {
     var firebaseAuth = FirebaseAuth.instance;
     firebaseAuth.signInWithCredential(crd);
   }
+
 }

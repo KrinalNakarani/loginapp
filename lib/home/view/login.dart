@@ -141,7 +141,7 @@ class _LoginScreenState extends State<LoginScreen> {
                       children: [
                         Text("Don't have an Account ?"),
                         Text(
-                          "Login",
+                          "SignUp",
                           style: TextStyle(
                               color: Colors.pink, fontWeight: FontWeight.bold),
                         ),
